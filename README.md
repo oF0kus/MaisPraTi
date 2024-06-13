@@ -1,2 +1,2 @@
 # MaisPraTi
-Repositorio das atividades 
+Repositorio das listas de atividades
